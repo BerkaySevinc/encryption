@@ -8,7 +8,7 @@ The core encryption logic is separated into a reusable library, with a demo appl
 
 # Details
 - Written in C#.
-- Comes with a **demo GUI application** to test and visualize encryption workflows.
+- Comes with a **demo GUI application** to test encryption.
 - Uses Windows Forms for the GUI.
 - Includes a modular **encryption library** that supports basic cryptographic operations (e.g. encryption, decryption, key generation).
 </br>
