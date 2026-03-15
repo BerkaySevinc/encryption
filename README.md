@@ -14,4 +14,4 @@ The core encryption logic is separated into a reusable library, with a demo appl
 </br>
 
 # Medias
-![Video 1](https://github.com/BerkaySevinc/encryption/blob/main/Introduction%20Media/Video%201.gif)
+![Video 1](Introduction%20Media/Video%201.gif)
