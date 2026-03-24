@@ -13,5 +13,5 @@ The core encryption logic is separated into a reusable library, with a demo appl
 - Includes a modular **encryption library** that supports basic cryptographic operations (e.g. encryption, decryption, key generation).
 </br>
 
-# Medias
+# Media
 ![Video 1](Introduction%20Media/Video%201.gif)
