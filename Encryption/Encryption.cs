@@ -24,8 +24,6 @@ public abstract class Encryption
                : Encoding.UTF8.GetBytes(options.PasswordDerivationSalt);
 
         // Derive Key From Password and Salt
-        using var rfcKey = new Rfc2898DeriveBytes(options.Password, saltBytes, 1, HashAlgorithmName.SHA256);
-
-        return rfcKey.GetBytes(options.KeySize / 8);
+        return Rfc2898DeriveBytes.Pbkdf2(options.Password, saltBytes, 1, HashAlgorithmName.SHA256, options.KeySize / 8);
     }
 }

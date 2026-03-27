@@ -6,7 +6,6 @@ using System.Security.Cryptography;
 using System.Security.Cryptography.Xml;
 using System.Text;
 using System.Threading.Tasks;
-using System.Windows.Forms;
 
 
 namespace Encryption;
