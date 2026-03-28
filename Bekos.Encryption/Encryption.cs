@@ -5,7 +5,7 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Encryption;
+namespace Bekos.Encryption;
 
 public abstract class Encryption
 {

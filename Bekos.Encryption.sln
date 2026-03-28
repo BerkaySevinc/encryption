@@ -1,11 +1,11 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 18
 VisualStudioVersion = 18.4.11620.152
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encryption.Demo", "Encryption.Demo\Encryption.Demo.csproj", "{76C654BB-90E1-96A1-ED59-A75DFB084124}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bekos.Encryption.Demo", "Bekos.Encryption.Demo\Bekos.Encryption.Demo.csproj", "{76C654BB-90E1-96A1-ED59-A75DFB084124}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encryption", "Encryption\Encryption.csproj", "{0D3B56E5-6107-4C87-8A13-9E79EE7B16BD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bekos.Encryption", "Bekos.Encryption\Bekos.Encryption.csproj", "{0D3B56E5-6107-4C87-8A13-9E79EE7B16BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

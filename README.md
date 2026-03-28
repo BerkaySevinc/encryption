@@ -14,4 +14,4 @@ The core encryption logic is separated into a reusable library, with a demo appl
 </br>
 
 # Media
-![Video 1](Introduction%20Media/Video%201.gif)
+![Video 1](media/Video%201.gif)

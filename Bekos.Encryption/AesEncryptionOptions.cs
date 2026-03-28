@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 
 
-namespace Encryption;
+namespace Bekos.Encryption;
 
 
 public class AesEncryptionOptions : IEncryptionOptions

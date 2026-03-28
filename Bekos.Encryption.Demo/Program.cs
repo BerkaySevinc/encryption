@@ -1,4 +1,4 @@
-namespace AesEncryptionDemo
+namespace Bekos.Encryption.Demo
 {
     internal static class Program
     {

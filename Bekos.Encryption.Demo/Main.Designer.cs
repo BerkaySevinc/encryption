@@ -1,4 +1,4 @@
-﻿namespace AesEncryptionDemo
+﻿namespace Bekos.Encryption.Demo
 {
     partial class Main
     {

@@ -6,10 +6,10 @@ using System.Text;
 using System.Text.Json;
 using System.Windows.Forms;
 
-using Encryption;
+using Bekos.Encryption;
 
 
-namespace AesEncryptionDemo;
+namespace Bekos.Encryption.Demo;
 
 
 public partial class Main : Form
